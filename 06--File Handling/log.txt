@@ -1,0 +1,8 @@
+lorem435A paragraph is a distinct section of writing that focuses on a single idea, usually made up of several related sentences. It helps organize text, making it easier for readers to follow by breaking up content into manageable units. Typically, a paragraph includes a topic sentence that introduces the main point, supporting sentences with details, and often a concluding sentence that summarizes the idea. Single main idea: Every sentence within a paragraph should relate to and support one central topic or theme.
+Structure: A common structure includes:
+Topic sentence: Introduces the paragraph's epoint  python and is often the first sentence.
+Supporting sentences: Provide details, examples, or explanations that develop the topic sentence.
+Concluding sentence: Restates or summarizes the main idea at the end of the paragraph.
+Organization: Paragraphs are used to structure longer pieces of writing, showing where one topic ends and another begins.
+Formatting: They are usually separated from other text by an indent on the first line or by a blank line between them. 
+This video demonstrates python the structure of a paragraph with a clear topic sentence:
