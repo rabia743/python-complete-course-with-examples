@@ -1,7 +1,6 @@
 # Complete Python Course Practice
 
 This repository contains my complete Python learning journey, covering core concepts to advanced topics with practical implementation.
-
 ## Topics Covered:
 - Python Basics
 - Data Structure
