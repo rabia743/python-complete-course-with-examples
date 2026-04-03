@@ -10,8 +10,7 @@ This repository contains my complete Python learning journey, covering core conc
 - OOP
 - Advanced Python
 - Projects
-- 
-- Why Use This Repository:
+-  Why Use This Repository:
 📘 Structured learning from beginner to advanced level
 💻 Hands-on practice with real examples
 🚀 Helps in building strong programming logic
