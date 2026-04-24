@@ -17,3 +17,4 @@ print(l)
 m = [1,2,3,4,5,6]
 m = reduce(lambda a,b: a + b,m)
 print(m)
+# i have complete all the python main cocept in this course
